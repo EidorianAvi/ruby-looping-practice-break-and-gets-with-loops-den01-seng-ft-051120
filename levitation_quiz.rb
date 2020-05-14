@@ -1,6 +1,7 @@
 
-def levitation_quiz
-	#your code here
+def levitation_quiz(input)
+	input = gets.chomp
+	puts"
 end
 
 
